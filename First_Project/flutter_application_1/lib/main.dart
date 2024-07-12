@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           leading: Icon(Icons.menu, color: Colors.white,),
           backgroundColor: Colors.cyan,
-          centerTitle: true,
           title: Text("influxDev",
           style: TextStyle(
             color: Colors.white,
